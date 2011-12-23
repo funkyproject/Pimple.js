@@ -1,10 +1,6 @@
 Pimple.js ( inspired by https://github.com/fabpot/Pimple )
 ======
 
-Dependency :: 
-	http://code.google.com/p/javascript-classes 
-
-
 Pimple.js is a small Dependency Injection Container for Javascript that consists
 of just one file and one class (about 50 lines of code).
 
